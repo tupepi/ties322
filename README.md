@@ -1,7 +1,10 @@
 # Tietoliikenneprotokollat 2
+
+Tietoliikenneprotokollat 2 -kurssin tehtäväsuorituksia.
+
 ## RDT in UDP
 
-Tietoliikenneprotokollat 2 -kurssin tehtäväsuorituksia. Chattisovellus, missä client lähettää viestin serverille. Server vastaa valitun protokollan mukaan. Kaikki java-tiedostot käännetään java-kääntäjällä, jonka jälkeen voidaan ajaa server ja client. Toteuttamiseen on käytetty apuna Kurose & Ross: Computer Networking: A Top-Down Approach lukua 3.4. Lisäksi kurssilla esiteltiin alkupohja virtual socketin toteuttamiseen. Toteutukset sisältävät melko paljon toisteisuutta, mutta tarkoituksena oli harjoitella rdt:n toteuttamista eri menetelmin.
+Chattisovellus, missä client lähettää viestin serverille. Server vastaa valitun protokollan mukaan. Kaikki java-tiedostot käännetään java-kääntäjällä, jonka jälkeen voidaan ajaa server ja client. Toteuttamiseen on käytetty apuna Kurose & Ross: Computer Networking: A Top-Down Approach lukua 3.4. Lisäksi kurssilla esiteltiin alkupohja virtual socketin toteuttamiseen. Toteutukset sisältävät melko paljon toisteisuutta, mutta tarkoituksena oli harjoitella rdt:n toteuttamista eri menetelmin.
 
 ### rdt3
 
