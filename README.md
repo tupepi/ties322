@@ -1,12 +1,13 @@
-# RDT in UDP
+# Tietoliikenneprotokollat 2
+## RDT in UDP
 
 Tietoliikenneprotokollat 2 -kurssin tehtäväsuorituksia. Chattisovellus, missä client lähettää viestin serverille. Server vastaa valitun protokollan mukaan. Kaikki java-tiedostot käännetään java-kääntäjällä, jonka jälkeen voidaan ajaa server ja client. Toteuttamiseen on käytetty apuna Kurose & Ross: Computer Networking: A Top-Down Approach lukua 3.4. Lisäksi kurssilla esiteltiin alkupohja virtual socketin toteuttamiseen. Toteutukset sisältävät melko paljon toisteisuutta, mutta tarkoituksena oli harjoitella rdt:n toteuttamista eri menetelmin.
 
-## rdt3
+### rdt3
 
 Tässä versiossa client odottaa käynnistämisen jälkeen käyttäjän syötettä. Versioita ei tarvitse valita vaan tarvitsee vain käynnistää Server.java ja Client.java.
 
-## Ack and Nak
+### Ack and Nak
 
 Ack and Nak -versiossa client lähettää yhden viestin mikä annetaan clientiä ajettaessa komentoriviltä.
 
